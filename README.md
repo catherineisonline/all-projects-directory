@@ -48,54 +48,54 @@
 
 ## M <a id="m"></a>
 
-<a href="https://github.com/catherineisonline/modal-window">Modal window<a/> - a pop-up component made with  HTML, CSS & Vanilla JavaScript
+- <a href="https://github.com/catherineisonline/modal-window">Modal window<a/> - a pop-up component made with  HTML, CSS & Vanilla JavaScript
 
 ## N <a id="n"></a>
-<a href="https://github.com/catherineisonline/nft-preview-card-frontendmentor">NFT preview card<a/> - a single block of NFT preview card made with HTML & CSS
+- <a href="https://github.com/catherineisonline/nft-preview-card-frontendmentor">NFT preview card<a/> - a single block of NFT preview card made with HTML & CSS
 
 ## O <a id="o"></a>
-<a href="https://github.com/catherineisonline/order-summary-component-frontendmentor">Order summary<a/> - a single block of order summary made with HTML & CSS
+- <a href="https://github.com/catherineisonline/order-summary-component-frontendmentor">Order summary<a/> - a single block of order summary made with HTML & CSS
   
 ## P <a id="p"></a>
-<a href="https://github.com/catherineisonline/personal-portfolio">Personal portfolio<a/> - a web developer portfolio made with HTML, Sass & React
-<a href="https://github.com/catherineisonline/randomcolor">Pick a random color<a/> - random color generator made with HTML, CSS & Vanilla JavaScript
-<a href="https://github.com/catherineisonline/pig-dice-game">Pig dice game<a/> - a game made with HTML, CSS & Vanilla JavaScript
-<a href="https://github.com/catherineisonline/ping-coming-soon-page-frontendmentor">Ping coming soon page<a/> - coming soon page made with HTML, CSS & Vanilla JavaScript
-<a href="https://github.com/catherineisonline/pizza-time-with-react">Pizza Time<a/> - multi-page food e-commerce website made with HTML, CSS & React
-<a href="https://github.com/catherineisonline/pricing-component-with-toggle-frontendmentor">Pricing component<a/> - a simple pricing component made with HTML, CSS, Vanilla JavaScript
-<a href="https://github.com/catherineisonline/profile-card-component-frontendmentor">Profile card<a/> - a single block of profile card made with HTML & CSS
+- <a href="https://github.com/catherineisonline/personal-portfolio">Personal portfolio<a/> - a web developer portfolio made with HTML, Sass & React
+- <a href="https://github.com/catherineisonline/randomcolor">Pick a random color<a/> - random color generator made with HTML, CSS & Vanilla JavaScript
+- <a href="https://github.com/catherineisonline/pig-dice-game">Pig dice game<a/> - a game made with HTML, CSS & Vanilla JavaScript
+- <a href="https://github.com/catherineisonline/ping-coming-soon-page-frontendmentor">Ping coming soon page<a/> - coming soon page made with HTML, CSS & Vanilla JavaScript
+- <a href="https://github.com/catherineisonline/pizza-time-with-react">Pizza Time<a/> - multi-page food e-commerce website made with HTML, CSS & React
+- <a href="https://github.com/catherineisonline/pricing-component-with-toggle-frontendmentor">Pricing component<a/> - a simple pricing component made with HTML, CSS, Vanilla JavaScript
+- <a href="https://github.com/catherineisonline/profile-card-component-frontendmentor">Profile card<a/> - a single block of profile card made with HTML & CSS
 
 ## Q <a id="q"></a>
   
-<a href="https://github.com/catherineisonline/QR-code-component-frontendmentor">QR code block<a/> - QR code component made with HTML & CSS
+- <a href="https://github.com/catherineisonline/QR-code-component-frontendmentor">QR code block<a/> - QR code component made with HTML & CSS
 
 
 ## R <a id="r"></a>
-<a href="https://github.com/catherineisonline/reviews-slider-block-js">Reviews slider<a/> - reviews slider made with HTML, CSS & Vanilla JavaScript
+- <a href="https://github.com/catherineisonline/reviews-slider-block-js">Reviews slider<a/> - reviews slider made with HTML, CSS & Vanilla JavaScript
 
 
 ## S <a id="s"></a>
-<a href="https://github.com/catherineisonline/intro-component-with-sign-up-form-frontendmentor">Sign-up form<a/> - sign-up form with input validation with HTML, CSS & Vanilla JavaScript
-<a href="https://github.com/catherineisonline/single-price-grid-component-frontendmentor">Single price grid <a/> - a single block of price grid made with HTML & CSS
-<a href="https://github.com/catherineisonline/social-proof-section-frontendmentor">Social proof section<a/> - a simple social proof section component made with HTML & CSS
-<a href="https://github.com/catherineisonline/stats-preview-card-component-frontendmentor">Stats preview card <a/> - a single block of stats preview card made with HTML & CSS
-<a href="https://github.com/catherineisonline/sunnyside-agency-landing-page-frontendmentor">Sunny Side agency<a/> - landing page  made with HTML, CSS & Vanilla JavaScript
+- <a href="https://github.com/catherineisonline/intro-component-with-sign-up-form-frontendmentor">Sign-up form<a/> - sign-up form with input validation with HTML, CSS & Vanilla JavaScript
+- <a href="https://github.com/catherineisonline/single-price-grid-component-frontendmentor">Single price grid <a/> - a single block of price grid made with HTML & CSS
+- <a href="https://github.com/catherineisonline/social-proof-section-frontendmentor">Social proof section<a/> - a simple social proof section component made with HTML & CSS
+- <a href="https://github.com/catherineisonline/stats-preview-card-component-frontendmentor">Stats preview card <a/> - a single block of stats preview card made with HTML & CSS
+- <a href="https://github.com/catherineisonline/sunnyside-agency-landing-page-frontendmentor">Sunny Side agency<a/> - landing page  made with HTML, CSS & Vanilla JavaScript
 
 
 ## T <a id="t"></a>
-<a href="https://github.com/catherineisonline/testimonials-grid-section-frontendmentor">Testimonials grid section<a/> - testimonials component made with HTML & CSS
-<a href="https://github.com/catherineisonline/3-column-card-component-frontendmentor">Three column card component <a/> - a single block of 3-column card component made with HTML & CSS
-<a href="https://github.com/catherineisonline/travel-with-catherine">Travel with Catherine<a/> - photography portfolio made with HTML, Tailwind & React
+- <a href="https://github.com/catherineisonline/testimonials-grid-section-frontendmentor">Testimonials grid section<a/> - testimonials component made with HTML & CSS
+- <a href="https://github.com/catherineisonline/3-column-card-component-frontendmentor">Three column card component <a/> - a single block of 3-column card component made with HTML & CSS
+- <a href="https://github.com/catherineisonline/travel-with-catherine">Travel with Catherine<a/> - photography portfolio made with HTML, Tailwind & React
 
 
 
 ## U <a id="u"></a>
-<a href="https://github.com/catherineisonline/url-shortening-api-frontendmentor">URL shortener<a/> - url shortening landing page made with HTML, CSS, Vanilla JavaScript & API
+- <a href="https://github.com/catherineisonline/url-shortening-api-frontendmentor">URL shortener<a/> - url shortening landing page made with HTML, CSS, Vanilla JavaScript & API
 
 
 ## W <a id="u"></a>
-<a href="https://github.com/catherineisonline/what-todo">What to do<a/> - to do list made with HTML, CSS, React & Redux
-<a href="https://github.com/catherineisonline/rest-countries">Where in the world<a/> - countries data page along with color theme switcher made with HTML, CSS, React & API
+- <a href="https://github.com/catherineisonline/what-todo">What to do<a/> - to do list made with HTML, CSS, React & Redux
+- <a href="https://github.com/catherineisonline/rest-countries">Where in the world<a/> - countries data page along with color theme switcher made with HTML, CSS, React & API
 
 
 
