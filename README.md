@@ -1,11 +1,11 @@
 # Projects Directory
 #### Collection of all projects 
 
+
 [A](#a) - [B](#b) - [C](#c) - [D](#d) - [E](#e) - [F](#f) - [G](#g) - [H](#h) - [I](#i) - [M](#m) - [N](#n) - [O](#o) - [P](#p)- [Q](#q) - [R](#r) - [S](#s) - [T](#t) - [U](#u) - [W](#w)
 
 
 ## A <a id="a"></a>
-
 - <a href="https://github.com/catherineisonline/tribute-page-freecodecamp">Ada Lovelace tribute page<a/> - a simple landing page with responsive design made with HTML, CSS & Vanilla JavaScript
 - <a href="https://github.com/catherineisonline/advice-generator-app-frontendmentor">Advice generator<a/> -advice generator block made with HTML, CSS, Vanilla JavaScript & API
 - <a href="https://github.com/catherineisonline/article-preview-component-frontendmentor">Article preview<a/> - a simple article preview block made with HTML, CSS & Vanilla JavaScript
@@ -47,7 +47,6 @@
 - <a href="https://github.com/catherineisonline/ip-address-tracker-frontendmentor">IP address tracker<a/> - IP address tracker made with HTML, CSS, Vanilla JavaScript & API
 
 ## M <a id="m"></a>
-
 - <a href="https://github.com/catherineisonline/modal-window">Modal window<a/> - a pop-up component made with  HTML, CSS & Vanilla JavaScript
 
 ## N <a id="n"></a>
@@ -66,7 +65,6 @@
 - <a href="https://github.com/catherineisonline/profile-card-component-frontendmentor">Profile card<a/> - a single block of profile card made with HTML & CSS
 
 ## Q <a id="q"></a>
-  
 - <a href="https://github.com/catherineisonline/QR-code-component-frontendmentor">QR code block<a/> - QR code component made with HTML & CSS
 
 
