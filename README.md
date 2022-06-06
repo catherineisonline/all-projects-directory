@@ -16,6 +16,7 @@
 - <a href="https://github.com/catherineisonline/base-apparel-coming-soon-frontendmentor">Base apparel coming soon page<a/> - coming soon page made with HTML, CSS & Vanilla JavaScript
   
 ## C <a id="c"></a>
+  - <a href="https://github.com/catherineisonline/calculator">Calculator<a/> - single page calculator website with theme switcher made with HTML, CSS, React & Styled Components
 - <a href="https://github.com/catherineisonline/simple-counter">Counter<a/> - interactive counter component made with HTML, CSS & Vanilla JavaScript
 - <a href="https://github.com/catherineisonline/covid19-awareness">COVID-19 awareness<a/> - a landing page with COVID-19 statistics made with HTML, CSS, Vanilla JavaScript & API
   
