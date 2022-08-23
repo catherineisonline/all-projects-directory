@@ -28,9 +28,11 @@
 ## F <a id="f"></a>
 - <a href="https://github.com/catherineisonline/faq-accordion-card-frontendmentor">FAQ accordion card<a/> - FAQ block made with HTML, CSS & Vanilla JavaScript
 - <a href="https://github.com/catherineisonline/faq-block-javascript">FAQ block<a/> - FAQ block made with HTML, CSS & Vanilla JavaScript
+- <a href="https://github.com/catherineisonline/forkify">Forkify<a/> - Forkify is a vanilla JavaScript application that interacts with the Forkify API to fetch and display recipe food data.
 - <a href="https://github.com/catherineisonline/four-card-feature-section-frontendmentor">Four card feature section<a/> - a simple four card feature section made with HTML & CSS
 - <a href="https://github.com/catherineisonline/frontend-mentor-challenge-solutions">Frontend Mentor challenge solutions<a/> - all my Frontend Mentor challenge solutions landing page made with HTML, Sass & Vue
 - <a href="https://github.com/catherineisonline/fylo-dark-theme-landing-page-frontendmentor">Fylo dark theme<a/> - landing page  made with HTML, CSS & Vanilla JavaScript
+- <a href="https://github.com/catherineisonline/fylo-landing-page-with-two-column-layout-frontendmentor">Fylo landing page with two column layout<a/> - landing page  made with HTML, CSS & Vanilla JavaScript
  
   
 ## G <a id="g"></a>
@@ -47,6 +49,7 @@
 - <a href="https://github.com/catherineisonline/ip-address-tracker-frontendmentor">IP address tracker<a/> - IP address tracker made with HTML, CSS, Vanilla JavaScript & API
 
 ## M <a id="m"></a>
+- <a href="https://github.com/catherineisonline/mapty-workouts">Mapty<a/> - a map application made with Vanilla JavaScript to store workouts like running and cycling.
 - <a href="https://github.com/catherineisonline/modal-window">Modal window<a/> - a pop-up component made with  HTML, CSS & Vanilla JavaScript
 
 ## N <a id="n"></a>
@@ -61,6 +64,7 @@
 - <a href="https://github.com/catherineisonline/pig-dice-game">Pig dice game<a/> - a game made with HTML, CSS & Vanilla JavaScript
 - <a href="https://github.com/catherineisonline/ping-coming-soon-page-frontendmentor">Ping coming soon page<a/> - coming soon page made with HTML, CSS & Vanilla JavaScript
 - <a href="https://github.com/catherineisonline/pizza-time-with-react">Pizza Time<a/> - multi-page food e-commerce website made with HTML, CSS & React
+- <a href="https://github.com/catherineisonline/precious">Precious<a/> - Currently available only locally. Precious is an e-commerce website that has at least 150 women's clothing products with different sizes and color choices. Built with React & GraphQL
 - <a href="https://github.com/catherineisonline/pricing-component-with-toggle-frontendmentor">Pricing component<a/> - a simple pricing component made with HTML, CSS, Vanilla JavaScript
 - <a href="https://github.com/catherineisonline/profile-card-component-frontendmentor">Profile card<a/> - a single block of profile card made with HTML & CSS
 
@@ -89,6 +93,7 @@
 
 ## U <a id="u"></a>
 - <a href="https://github.com/catherineisonline/url-shortening-api-frontendmentor">URL shortener<a/> - url shortening landing page made with HTML, CSS, Vanilla JavaScript & API
+- <a href="https://github.com/catherineisonline/useful-resources">Useful resources<a/> - a collection of different useful tool
 
 
 ## W <a id="u"></a>
