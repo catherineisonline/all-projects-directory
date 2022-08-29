@@ -18,6 +18,7 @@
   - <a href="https://github.com/catherineisonline/calculator">Calculator<a/> - single page calculator website with theme switcher made with HTML, CSS, React & Styled Components
 - <a href="https://github.com/catherineisonline/simple-counter">Counter<a/> - interactive counter component made with HTML, CSS & Vanilla JavaScript
 - <a href="https://github.com/catherineisonline/covid19-awareness">COVID-19 awareness<a/> - a landing page with COVID-19 statistics made with HTML, CSS, Vanilla JavaScript & API
+- <a href="https://github.com/catherineisonline/crowdfunding-product-page-frontendmentor">Crowdfunding product page <a/> - landing page  made with HTML, CSS & Vanilla JavaScript
   
 ## D <a id="d"></a>
 - <a href="https://github.com/catherineisonline/fylo-data-storage-component-frontendmentor">Data storage component<a/> - a single block of data storage component made with HTML & CSS
