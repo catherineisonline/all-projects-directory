@@ -36,16 +36,13 @@ This repository serves as a directory that helps you easily navigate through my 
 - <a href="https://github.com/catherineisonline/frontend-mentor-challenge-solutions">Frontend Mentor challenge solutions<a/> - all my Frontend Mentor challenge solutions landing page made with HTML, Sass & Vue
 - <a href="https://github.com/catherineisonline/fylo-dark-theme-landing-page-frontendmentor">Fylo dark theme<a/> - landing page  made with HTML, CSS & Vanilla JavaScript
 - <a href="https://github.com/catherineisonline/fylo-landing-page-with-two-column-layout-frontendmentor">Fylo landing page with two column layout<a/> - landing page  made with HTML, CSS & Vanilla JavaScript
- 
   
 ## G <a id="g"></a>
 - <a href="https://github.com/catherineisonline/giveaway-countdown-js">Giveaway countdown <a/> - giveaway countdown timer block made with HTML, CSS & Vanilla JavaScript
 - <a href="https://github.com/catherineisonline/guess-my-number">Guess my number <a/> - number guessing game project made with HTML, CSS & Vanilla JavaScript
 
-  
 ## H <a id="h"></a>
 - <a href="https://github.com/catherineisonline/huddle-landing-page-with-a-single-introductory-section-frontendmentor">Huddle<a/> - landing page with a single introductory section made with HTML & CSS
-
   
 ## I <a id="i"></a>
 - <a href="https://github.com/catherineisonline/interactive-rating-component-frontendmentor">Interactive rating component<a/> - interactive rating component made with HTML, CSS, Vanilla JavaScript
@@ -74,10 +71,8 @@ This repository serves as a directory that helps you easily navigate through my 
 ## Q <a id="q"></a>
 - <a href="https://github.com/catherineisonline/QR-code-component-frontendmentor">QR code block<a/> - QR code component made with HTML & CSS
 
-
 ## R <a id="r"></a>
 - <a href="https://github.com/catherineisonline/reviews-slider-block-js">Reviews slider<a/> - reviews slider made with HTML, CSS & Vanilla JavaScript
-
 
 ## S <a id="s"></a>
 - <a href="https://github.com/catherineisonline/intro-component-with-sign-up-form-frontendmentor">Sign-up form<a/> - sign-up form with input validation with HTML, CSS & Vanilla JavaScript
@@ -86,18 +81,14 @@ This repository serves as a directory that helps you easily navigate through my 
 - <a href="https://github.com/catherineisonline/stats-preview-card-component-frontendmentor">Stats preview card <a/> - a single block of stats preview card made with HTML & CSS
 - <a href="https://github.com/catherineisonline/sunnyside-agency-landing-page-frontendmentor">Sunny Side agency<a/> - landing page  made with HTML, CSS & Vanilla JavaScript
 
-
 ## T <a id="t"></a>
 - <a href="https://github.com/catherineisonline/testimonials-grid-section-frontendmentor">Testimonials grid section<a/> - testimonials component made with HTML & CSS
 - <a href="https://github.com/catherineisonline/3-column-card-component-frontendmentor">Three column card component <a/> - a single block of 3-column card component made with HTML & CSS
 - <a href="https://github.com/catherineisonline/travel-with-catherine">Travel with Catherine<a/> - photography portfolio made with HTML, Tailwind & React
 
-
-
 ## U <a id="u"></a>
 - <a href="https://github.com/catherineisonline/url-shortening-api-frontendmentor">URL shortener<a/> - url shortening landing page made with HTML, CSS, Vanilla JavaScript & API
 - <a href="https://github.com/catherineisonline/useful-resources">Useful resources<a/> - a collection of different useful tool
-
 
 ## W <a id="u"></a>
 - <a href="https://github.com/catherineisonline/what-todo">What to do<a/> - to do list made with HTML, CSS, React & Redux
