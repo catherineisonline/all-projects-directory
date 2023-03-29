@@ -20,6 +20,7 @@ This repository serves as a directory that helps you easily navigate through my 
   - <a href="https://github.com/catherineisonline/calculator">Calculator<a/> - single page calculator website with theme switcher made with HTML, CSS, React & Styled Components
 - <a href="https://github.com/catherineisonline/simple-counter">Counter<a/> - interactive counter component made with HTML, CSS & Vanilla JavaScript
 - <a href="https://github.com/catherineisonline/covid19-awareness">COVID-19 awareness<a/> - a landing page with COVID-19 statistics made with HTML, CSS, Vanilla JavaScript & API
+- [Crowdfunding product page](https://github.com/catherineisonline/crowdfunding-product-page-frontendmentor) - a landing page  made with HTML, CSS & Vanilla JavaScript
 - <a href="https://github.com/catherineisonline/crowdfunding-product-page-frontendmentor">Crowdfunding product page <a/> - landing page  made with HTML, CSS & Vanilla JavaScript
   
 ## D <a id="d"></a>
@@ -27,6 +28,7 @@ This repository serves as a directory that helps you easily navigate through my 
 
 ## E <a id="e"></a>
 - <a href="https://github.com/catherineisonline/edgy">Edgy<a/> - a social media marketing website made with HTML, Tailwind & React
+- [Expenseless](https://github.com/catherineisonline/expenseless) - Expenseless helps you to manage your money and track all your income & expenses effortlessly to reach your financial goals faster 
   
 ## F <a id="f"></a>
 - <a href="https://github.com/catherineisonline/faq-accordion-card-frontendmentor">FAQ accordion card<a/> - FAQ block made with HTML, CSS & Vanilla JavaScript
@@ -39,6 +41,7 @@ This repository serves as a directory that helps you easily navigate through my 
   
 ## G <a id="g"></a>
 - <a href="https://github.com/catherineisonline/giveaway-countdown-js">Giveaway countdown <a/> - giveaway countdown timer block made with HTML, CSS & Vanilla JavaScript
+- [Grand Theatre](https://github.com/catherineisonline/grand-theatre) - Grand Theatre is a minimalistic landing page for a theatre made with HTML, CSS & JavaScript
 - <a href="https://github.com/catherineisonline/guess-my-number">Guess my number <a/> - number guessing game project made with HTML, CSS & Vanilla JavaScript
 
 ## H <a id="h"></a>
@@ -50,7 +53,9 @@ This repository serves as a directory that helps you easily navigate through my 
 
 ## M <a id="m"></a>
 - <a href="https://github.com/catherineisonline/mapty-workouts">Mapty<a/> - a map application made with Vanilla JavaScript to store workouts like running and cycling.
+- [Modal block](https://github.com/catherineisonline/modal-block-js) - online Gallery is simple project to practise simple modal window pop-up with Vanilla JavaScript.
 - <a href="https://github.com/catherineisonline/modal-window">Modal window<a/> - a pop-up component made with  HTML, CSS & Vanilla JavaScript
+- [Movie Time](https://github.com/catherineisonline/movies-time) - The project uses React to build a movie database application, styled with CSS, and utilizing the MovieDB API.
 
 ## N <a id="n"></a>
 - <a href="https://github.com/catherineisonline/nft-preview-card-frontendmentor">NFT preview card<a/> - a single block of NFT preview card made with HTML & CSS
@@ -83,7 +88,12 @@ This repository serves as a directory that helps you easily navigate through my 
 
 ## T <a id="t"></a>
 - <a href="https://github.com/catherineisonline/testimonials-grid-section-frontendmentor">Testimonials grid section<a/> - testimonials component made with HTML & CSS
+- [The Huddle with alternating feature blocks](https://github.com/catherineisonline/huddle-landing-page-with-feature-blocks-frontendmentor) - This is my solution to the Huddle landing page with alternating feature blocks challenge on Frontend Mentor
+- [The Intro section with dropdown navigation](https://github.com/catherineisonline/intro-section-with-dropdown-navigation-frontendmentor) - This is my solution to the Intro section with dropdown navigation challenge on Frontend Mentor
+- [The news homepage](https://github.com/catherineisonline/news-homepage-frontendmentor) - This is my solution to the news homepage challenge on Frontend Mentor
+- [The URL shortening API](https://github.com/catherineisonline/url-shortening-api-frontendmentor) - This is my solution to the URL shortening API landing page challenge on Frontend Mentor
 - <a href="https://github.com/catherineisonline/3-column-card-component-frontendmentor">Three column card component <a/> - a single block of 3-column card component made with HTML & CSS
+- [Tic Tac Toe](https://github.com/catherineisonline/tic-tac-toe) - Tic Tac Toe game, a classic game for two players where each player takes turns marking a grid of 3x3 squares with their X or O
 - <a href="https://github.com/catherineisonline/travel-with-catherine">Travel with Catherine<a/> - photography portfolio made with HTML, Tailwind & React
 
 ## U <a id="u"></a>
@@ -91,6 +101,7 @@ This repository serves as a directory that helps you easily navigate through my 
 - <a href="https://github.com/catherineisonline/useful-resources">Useful resources<a/> - a collection of different useful tool
 
 ## W <a id="u"></a>
+- [Weather Now](https://github.com/catherineisonline/weather-now) - Weather Now is a simple project that utilizes a weather API to display the current weather conditions of a specified location
 - <a href="https://github.com/catherineisonline/what-todo">What to do<a/> - to do list made with HTML, CSS, React & Redux
 - <a href="https://github.com/catherineisonline/rest-countries">Where in the world<a/> - countries data page along with color theme switcher made with HTML, CSS, React & API
 
