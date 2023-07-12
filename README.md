@@ -7,7 +7,7 @@ This repository serves as a directory that helps you easily navigate through my 
 
 
 ## A <a id="a"></a>
-- <a href="https://github.com/catherineisonline/tribute-page-freecodecamp">Ada Lovelace tribute page<a/> - a simple landing page with responsive design made with HTML, CSS & Vanilla JavaScript
+- [PUBLIC ARCHIVE] <a href="https://github.com/catherineisonline/tribute-page-freecodecamp">Ada Lovelace tribute page<a/> - a simple landing page with a responsive design made with HTML, CSS & Vanilla JavaScript
 - <a href="https://github.com/catherineisonline/advice-generator-app-frontendmentor">Advice generator<a/> -advice generator block made with HTML, CSS, Vanilla JavaScript & API
 - <a href="https://github.com/catherineisonline/article-preview-component-frontendmentor">Article preview<a/> - a simple article preview block made with HTML, CSS & Vanilla JavaScript
   
@@ -18,8 +18,8 @@ This repository serves as a directory that helps you easily navigate through my 
   
 ## C <a id="c"></a>
   - <a href="https://github.com/catherineisonline/calculator">Calculator<a/> - single page calculator website with theme switcher made with HTML, CSS, React & Styled Components
-- <a href="https://github.com/catherineisonline/simple-counter">Counter<a/> - interactive counter component made with HTML, CSS & Vanilla JavaScript
-- <a href="https://github.com/catherineisonline/covid19-awareness">COVID-19 awareness<a/> - a landing page with COVID-19 statistics made with HTML, CSS, Vanilla JavaScript & API
+- [PUBLIC ARCHIVE] <a href="https://github.com/catherineisonline/simple-counter">Counter<a/> - interactive counter component made with HTML, CSS & Vanilla JavaScript
+- [PUBLIC ARCHIVE] <a href="https://github.com/catherineisonline/covid19-awareness">COVID-19 awareness<a/> - a landing page with COVID-19 statistics made with HTML, CSS, Vanilla JavaScript & API
 - [Crowdfunding product page](https://github.com/catherineisonline/crowdfunding-product-page-frontendmentor) - a landing page  made with HTML, CSS & Vanilla JavaScript
 - <a href="https://github.com/catherineisonline/crowdfunding-product-page-frontendmentor">Crowdfunding product page <a/> - landing page  made with HTML, CSS & Vanilla JavaScript
   
@@ -28,21 +28,21 @@ This repository serves as a directory that helps you easily navigate through my 
 
 ## E <a id="e"></a>
 - <a href="https://github.com/catherineisonline/edgy">Edgy<a/> - a social media marketing website made with HTML, Tailwind & React
-- [Expenseless](https://github.com/catherineisonline/expenseless) - Expenseless helps you to manage your money and track all your income & expenses effortlessly to reach your financial goals faster 
+- [PUBLIC ARCHIVE] [Expenseless](https://github.com/catherineisonline/expenseless) - Expenseless helps you to manage your money and track all your income & expenses effortlessly to reach your financial goals faster 
   
 ## F <a id="f"></a>
 - <a href="https://github.com/catherineisonline/faq-accordion-card-frontendmentor">FAQ accordion card<a/> - FAQ block made with HTML, CSS & Vanilla JavaScript
-- <a href="https://github.com/catherineisonline/faq-block-javascript">FAQ block<a/> - FAQ block made with HTML, CSS & Vanilla JavaScript
-- <a href="https://github.com/catherineisonline/forkify">Forkify<a/> - Forkify is a vanilla JavaScript application that interacts with the Forkify API to fetch and display recipe food data.
+- [PUBLIC ARCHIVE] <a href="https://github.com/catherineisonline/faq-block-javascript">FAQ block<a/> - FAQ block made with HTML, CSS & Vanilla JavaScript
+- [PUBLIC ARCHIVE] <a href="https://github.com/catherineisonline/forkify">Forkify<a/> - Forkify is a vanilla JavaScript application that interacts with the Forkify API to fetch and display recipe food data.
 - <a href="https://github.com/catherineisonline/four-card-feature-section-frontendmentor">Four card feature section<a/> - a simple four card feature section made with HTML & CSS
-- <a href="https://github.com/catherineisonline/frontend-mentor-challenge-solutions">Frontend Mentor challenge solutions<a/> - all my Frontend Mentor challenge solutions landing page made with HTML, Sass & Vue
+- <a href="https://github.com/catherineisonline/frontend-mentor-challenge-solutions">Frontend Mentor challenge solutions<a/> - all my Frontend Mentor challenge solutions landing pages made with HTML, Sass & Vue
 - <a href="https://github.com/catherineisonline/fylo-dark-theme-landing-page-frontendmentor">Fylo dark theme<a/> - landing page  made with HTML, CSS & Vanilla JavaScript
 - <a href="https://github.com/catherineisonline/fylo-landing-page-with-two-column-layout-frontendmentor">Fylo landing page with two column layout<a/> - landing page  made with HTML, CSS & Vanilla JavaScript
   
 ## G <a id="g"></a>
-- <a href="https://github.com/catherineisonline/giveaway-countdown-js">Giveaway countdown <a/> - giveaway countdown timer block made with HTML, CSS & Vanilla JavaScript
-- [Grand Theatre](https://github.com/catherineisonline/grand-theatre) - Grand Theatre is a minimalistic landing page for a theatre made with HTML, CSS & JavaScript
-- <a href="https://github.com/catherineisonline/guess-my-number">Guess my number <a/> - number guessing game project made with HTML, CSS & Vanilla JavaScript
+- [PUBLIC ARCHIVE] <a href="https://github.com/catherineisonline/giveaway-countdown-js">Giveaway countdown <a/> - giveaway countdown timer block made with HTML, CSS & Vanilla JavaScript
+- [PUBLIC ARCHIVE] [Grand Theatre](https://github.com/catherineisonline/grand-theatre) - Grand Theatre is a minimalistic landing page for a theatre made with HTML, CSS & JavaScript
+- [PUBLIC ARCHIVE] <a href="https://github.com/catherineisonline/guess-my-number">Guess my number <a/> - number guessing game project made with HTML, CSS & Vanilla JavaScript
 
 ## H <a id="h"></a>
 - <a href="https://github.com/catherineisonline/huddle-landing-page-with-a-single-introductory-section-frontendmentor">Huddle<a/> - landing page with a single introductory section made with HTML & CSS
@@ -52,9 +52,9 @@ This repository serves as a directory that helps you easily navigate through my 
 - <a href="https://github.com/catherineisonline/ip-address-tracker-frontendmentor">IP address tracker<a/> - IP address tracker made with HTML, CSS, Vanilla JavaScript & API
 
 ## M <a id="m"></a>
-- <a href="https://github.com/catherineisonline/mapty-workouts">Mapty<a/> - a map application made with Vanilla JavaScript to store workouts like running and cycling.
-- [Modal block](https://github.com/catherineisonline/modal-block-js) - online Gallery is simple project to practise simple modal window pop-up with Vanilla JavaScript.
-- <a href="https://github.com/catherineisonline/modal-window">Modal window<a/> - a pop-up component made with  HTML, CSS & Vanilla JavaScript
+- [PUBLIC ARCHIVE] <a href="https://github.com/catherineisonline/mapty-workouts">Mapty<a/> - a map application made with Vanilla JavaScript to store workouts like running and cycling.
+- [PUBLIC ARCHIVE] [Modal block](https://github.com/catherineisonline/modal-block-js) - online Gallery is a simple project to practice simple modal window pop-up with Vanilla JavaScript.
+- [PUBLIC ARCHIVE] <a href="https://github.com/catherineisonline/modal-window">Modal window<a/> - a pop-up component made with  HTML, CSS & Vanilla JavaScript
 - [Movie Time](https://github.com/catherineisonline/movies-time) - The project uses React to build a movie database application, styled with CSS, and utilizing the MovieDB API.
 
 ## N <a id="n"></a>
@@ -65,11 +65,11 @@ This repository serves as a directory that helps you easily navigate through my 
   
 ## P <a id="p"></a>
 - <a href="https://github.com/catherineisonline/personal-portfolio">Personal portfolio<a/> - a web developer portfolio made with HTML, Sass & React
-- <a href="https://github.com/catherineisonline/randomcolor">Pick a random color<a/> - random color generator made with HTML, CSS & Vanilla JavaScript
-- <a href="https://github.com/catherineisonline/pig-dice-game">Pig dice game<a/> - a game made with HTML, CSS & Vanilla JavaScript
+- [PUBLIC ARCHIVE] <a href="https://github.com/catherineisonline/randomcolor">Pick a random color<a/> - random color generator made with HTML, CSS & Vanilla JavaScript
+- [PUBLIC ARCHIVE] <a href="https://github.com/catherineisonline/pig-dice-game">Pig dice game<a/> - a game made with HTML, CSS & Vanilla JavaScript
 - <a href="https://github.com/catherineisonline/ping-coming-soon-page-frontendmentor">Ping coming soon page<a/> - coming soon page made with HTML, CSS & Vanilla JavaScript
 - <a href="https://github.com/catherineisonline/pizza-time-with-react">Pizza Time<a/> - multi-page food e-commerce website made with HTML, CSS & React
-- <a href="https://github.com/catherineisonline/precious">Precious<a/> - Currently available only locally. Precious is an e-commerce website that has at least 150 women's clothing products with different sizes and color choices. Built with React & GraphQL
+- <a href="https://github.com/catherineisonline/shopping-time">Shopping Time<a/> - Shopping Time is an e-commerce website that has at least 150 women's clothing products with different sizes and color choices. Built with React
 - <a href="https://github.com/catherineisonline/pricing-component-with-toggle-frontendmentor">Pricing component<a/> - a simple pricing component made with HTML, CSS, Vanilla JavaScript
 - <a href="https://github.com/catherineisonline/profile-card-component-frontendmentor">Profile card<a/> - a single block of profile card made with HTML & CSS
 
@@ -77,7 +77,7 @@ This repository serves as a directory that helps you easily navigate through my 
 - <a href="https://github.com/catherineisonline/QR-code-component-frontendmentor">QR code block<a/> - QR code component made with HTML & CSS
 
 ## R <a id="r"></a>
-- <a href="https://github.com/catherineisonline/reviews-slider-block-js">Reviews slider<a/> - reviews slider made with HTML, CSS & Vanilla JavaScript
+- [PUBLIC ARCHIVE] <a href="https://github.com/catherineisonline/reviews-slider-block-js">Reviews slider<a/> - reviews slider made with HTML, CSS & Vanilla JavaScript
 
 ## S <a id="s"></a>
 - <a href="https://github.com/catherineisonline/intro-component-with-sign-up-form-frontendmentor">Sign-up form<a/> - sign-up form with input validation with HTML, CSS & Vanilla JavaScript
@@ -97,8 +97,8 @@ This repository serves as a directory that helps you easily navigate through my 
 - <a href="https://github.com/catherineisonline/travel-with-catherine">Travel with Catherine<a/> - photography portfolio made with HTML, Tailwind & React
 
 ## U <a id="u"></a>
-- <a href="https://github.com/catherineisonline/url-shortening-api-frontendmentor">URL shortener<a/> - url shortening landing page made with HTML, CSS, Vanilla JavaScript & API
-- <a href="https://github.com/catherineisonline/useful-resources">Useful resources<a/> - a collection of different useful tool
+- <a href="https://github.com/catherineisonline/url-shortening-api-frontendmentor">URL shortener<a/> - URL shortening landing page made with HTML, CSS, Vanilla JavaScript & API
+- <a href="https://github.com/catherineisonline/useful-resources">Useful resources<a/> - a collection of different useful tools
 
 ## W <a id="u"></a>
 - [Weather Now](https://github.com/catherineisonline/weather-now) - Weather Now is a simple project that utilizes a weather API to display the current weather conditions of a specified location
