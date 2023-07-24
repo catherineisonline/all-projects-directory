@@ -111,6 +111,7 @@ This repository serves as a directory that helps you easily navigate through my 
 ## P <a id="pF"></a> 
 - [PUBLIC ARCHIVE] <a href="https://github.com/catherineisonline/ping-coming-soon-page-frontendmentor">Ping coming soon page<a/> - coming soon page made with HTML, CSS & Vanilla JavaScript
 - [PUBLIC ARCHIVE] <a href="https://github.com/catherineisonline/pricing-component-with-toggle-frontendmentor">Pricing component<a/> - a simple pricing component made with HTML, CSS, Vanilla JavaScript
+- [PUBLIC ARCHIVE] <a href="https://github.com/catherineisonline/product-preview-card-frontendmentor">Product Preview Card<a/> - a single product preview card made with HTML5 and CSS with a desktop-first workflow
 - [PUBLIC ARCHIVE] <a href="https://github.com/catherineisonline/profile-card-component-frontendmentor">Profile card<a/> - a single block of profile card made with HTML & CSS
 
 ## Q <a id="qF"></a> 
