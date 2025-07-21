@@ -25,7 +25,7 @@ This repository serves as a directory that helps you easily navigate through my 
   
 ## F <a id="f"></a>
 - [PUBLIC ARCHIVE] [FAQ block](https://github.com/catherineisonline/faq-block-javascript) - made with HTML, CSS & Vanilla JavaScript
-- [PUBLIC ARCHIVE] [Forkify](https://github.com/catherineisonline/forkify) - a vanilla JavaScript application that interacts with the Forkify API to fetch and display recipe food data.
+- [PUBLIC ARCHIVE] [Forkify](https://github.com/catherineisonline/forkify) - a vanilla JavaScript application that interacts with the Forkify API to fetch and display recipe food data
 - [Frontend Mentor challenge solutions](https://github.com/catherineisonline/frontend-mentor-challenge-solutions) - all my Frontend Mentor challenge solutions landing page made with HTML, Sass & Vue. The repository contains source code for each project
   
 ## G <a id="g"></a>
@@ -36,10 +36,13 @@ This repository serves as a directory that helps you easily navigate through my 
 
 ## M <a id="m"></a>
 - [Minimalistic Portfolio](https://github.com/catherineisonline/personal-portfolio) - a web developer portfolio made with HTML, Sass & React
-- [Movies Time](https://github.com/catherineisonline/movies-time) - The project uses React to build a movie database application, styled with CSS, and utilizing the MovieDB API.
-- [PUBLIC ARCHIVE] [Mapty](https://github.com/catherineisonline/mapty-workouts) - a map application made with Vanilla JavaScript to store workouts like running and cycling.
-- [PUBLIC ARCHIVE] [Modal block](https://github.com/catherineisonline/modal-block-js) - online Gallery is a simple project to practice a simple modal window pop-up with Vanilla JavaScript.
+- [Movies Time](https://github.com/catherineisonline/movies-time) - The project uses React to build a movie database application, styled with CSS, and utilizing the MovieDB API
+- [PUBLIC ARCHIVE] [Mapty](https://github.com/catherineisonline/mapty-workouts) - a map application made with Vanilla JavaScript to store workouts like running and cycling
+- [PUBLIC ARCHIVE] [Modal block](https://github.com/catherineisonline/modal-block-js) - online Gallery is a simple project to practice a simple modal window pop-up with Vanilla JavaScript
 - [PUBLIC ARCHIVE] [Modal window](https://github.com/catherineisonline/modal-window") - a pop-up component made with  HTML, CSS & Vanilla JavaScript
+
+## N <a id="n"></a>
+- [Nuvaa Focus](https://github.com/catherineisonline/nuvaa-focus) - a pomodoro timer with custom time settings, themes, and more. Built with Next.js, TypeScript, and Redux Toolkit
 
   
 ## P <a id="p"></a>
@@ -53,7 +56,7 @@ This repository serves as a directory that helps you easily navigate through my 
 
 ## S <a id="s"></a>
 - [Shopping Time](https://github.com/catherineisonline/shopping-time) - an e-commerce website that has at least 150 women's clothing products with different sizes and color choices. Built with React
-- [PUBLIC ARCHIVE] [Simple counter]https://github.com/catherineisonline/simple-counter) - interactive counter component made with HTML, CSS & Vanilla JavaScript
+- [PUBLIC ARCHIVE] [Simple counter](https://github.com/catherineisonline/simple-counter) - interactive counter component made with HTML, CSS & Vanilla JavaScript
 
 ## T <a id="t"></a>
 - [PUBLIC ARCHIVE] [Tic Tac Toe](https://github.com/catherineisonline/tic-tac-toe) - a classic game for two players where each player takes turns marking a grid of 3x3 squares with their X or O
