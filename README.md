@@ -39,7 +39,7 @@ This repository serves as a directory that helps you easily navigate through my 
 - [Movies Time](https://github.com/catherineisonline/movies-time) - The project uses React to build a movie database application, styled with CSS, and utilizing the MovieDB API
 - [PUBLIC ARCHIVE] [Mapty](https://github.com/catherineisonline/mapty-workouts) - a map application made with Vanilla JavaScript to store workouts like running and cycling
 - [PUBLIC ARCHIVE] [Modal block](https://github.com/catherineisonline/modal-block-js) - online Gallery is a simple project to practice a simple modal window pop-up with Vanilla JavaScript
-- [PUBLIC ARCHIVE] [Modal window](https://github.com/catherineisonline/modal-window") - a pop-up component made with  HTML, CSS & Vanilla JavaScript
+- [PUBLIC ARCHIVE] [Modal window](https://github.com/catherineisonline/modal-window) - a pop-up component made with  HTML, CSS & Vanilla JavaScript
 
 ## N <a id="n"></a>
 - [Nuvaa Focus](https://github.com/catherineisonline/nuvaa-focus) - a pomodoro timer with custom time settings, themes, and more. Built with Next.js, TypeScript, and Redux Toolkit
