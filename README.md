@@ -65,6 +65,6 @@ This repository serves as a directory that helps you easily navigate through my 
 ## U <a id="u"></a>
 - [Useful resources](https://github.com/catherineisonline/useful-resources) - a collection of different useful tools
 
-## W <a id="u"></a>
+## W <a id="w"></a>
 - [PUBLIC ARCHIVE] [Weather Now](https://github.com/catherineisonline/weather-now) - Weather Now is a simple project that utilizes a weather API to display the current weather conditions of a specified location
 - [PUBLIC ARCHIVE] [What to do](https://github.com/catherineisonline/what-todo) - to-do list made with HTML, CSS, React & Redux
